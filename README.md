@@ -13,7 +13,6 @@ storing employee profiles and keeping track of the patient records and diagnosti
 make those information readily available to doctors for ensuring faster service and smooth
 organization of data. 
 
-This project was done for the course CSE 4302: Object Oriented Programming Lab.
 
 ## Features : 
 
